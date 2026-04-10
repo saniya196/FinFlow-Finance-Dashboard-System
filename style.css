@@ -1115,3 +1115,21 @@ body.dark-mode .btn-close {
     font-size: 0.85rem;
   }
 }
+<<<<<<< HEAD
+=======
+
+/* ─── Auth: Field-level validation styles ─────────────────────────────────── */
+/* These are used by auth.js to highlight invalid inputs inline                */
+
+.form-control.field-invalid {
+  border-color: #d94e63 !important;
+  box-shadow: 0 0 0 3px rgba(217, 78, 99, 0.14) !important;
+}
+
+.inline-field-error {
+  display: block;
+  font-size: 0.8rem;
+  color: #d94e63;
+  margin-top: 4px;
+}
+>>>>>>> d8a1b59fd3723f2285901fece06ef8e5b15a60f5
