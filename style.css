@@ -46,6 +46,13 @@ body.dark-mode {
   --danger: #f87171;
   --warning: #fbbf24;
 }
+.brand-title {
+  font-size: 28px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #2c3e50; /* change based on your theme */
+}
 
 body {
   font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
